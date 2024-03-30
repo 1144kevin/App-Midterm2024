@@ -6,7 +6,7 @@ const WishListScreen = () => {
     return (
     <View style={{flex: 1}}>
         <Text fontSize={30}>
-            This is a WishListScreen
+            This is a MapScreen
         </Text>              
     </View>
     );
